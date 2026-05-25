@@ -5,7 +5,7 @@ import logo from '../../assets/images/main-logo.png'
 const Header = () => {
     const [isMenuOpen, setIsMenuOpen] = useState(false)
 
-    // Prevent body scroll when menu is open
+    // Add menu-open class to body
     useEffect(() => {
         if (isMenuOpen) {
             document.body.classList.add('menu-open')

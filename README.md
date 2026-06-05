@@ -2,6 +2,10 @@
 
 Hotel Mellow is a modern luxury hotel booking website developed using React and Firebase. The project provides a smooth and responsive experience for users to explore hotel rooms, make reservations, view services, and contact the hotel. It also includes an admin dashboard for managing bookings, customer messages, and newsletter subscribers.
 
+Live Demo
+
+🔗 https://hotel-mellow-website.vercel.app/
+
 ## Features
 
 - Luxury hotel landing page

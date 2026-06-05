@@ -20,6 +20,7 @@ const HeroSlider = () => {
     // Set min date for checkout (can't be before checkin)
     useEffect(() => {
         if (checkOut < checkIn) {
+            // eslint-disable-next-line react-hooks/set-state-in-effect
             setCheckOut(checkIn)
         }
     }, [checkIn, checkOut])

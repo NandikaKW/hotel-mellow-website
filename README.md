@@ -104,6 +104,12 @@ src/
 ```bash
 npm run build
 ```
+Deployment
+
+This project is deployed using Vercel.
+
+Live Website:
+https://hotel-mellow-website.vercel.app/
 
 ## Author
 
